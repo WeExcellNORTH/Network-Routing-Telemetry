@@ -1,0 +1,15 @@
+# NORTHWELL: Network Optimized Routing & Telemetry Hub // Super Intelligence
+
+An open-source technical architecture focused on building highly resilient, autonomous networking infrastructures. 
+
+## Project Architecture & Intent
+This codebase provides the foundational modules for routing table optimization and decentralized network telemetry collection. 
+
+**This is an independent, non-commercial open-source sandbox. It is entirely unrelated to, unaffiliated with, and distinct from any clinical healthcare entity or hospital network.**
+
+## Core Components
+- `TelemetryHubRouter`: Core packet path resolution mapping engine.
+- `TelemetryMetricsRegistry`: Event taxonomy tracking daemon.
+
+## License
+Licensed under the Apache License, Version 2.0.
